@@ -1,0 +1,5 @@
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Калькулятор_Деле_Ля\Calc\bin\Debug\Calc.exe.config
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Калькулятор_Деле_Ля\Calc\bin\Debug\Calc.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Калькулятор_Деле_Ля\Calc\bin\Debug\Calc.pdb
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Калькулятор_Деле_Ля\Calc\obj\Debug\Calc.exe
+C:\Users\Администратор.000\Music\Documents\программирование\GIT\Калькулятор_Деле_Ля\Calc\obj\Debug\Calc.pdb
