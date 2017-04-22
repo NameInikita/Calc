@@ -51,7 +51,7 @@ namespace task_2
 
             //!!!!!!!!!еслиделегат не равен null то выполняется соответствующий метод, кот сообщен с делегатом
             if (myDel != null)
-                Console.WriteLine("Значенние операции {0} равно {1:##.###}", str, myDel(i, j));
+                Console.WriteLine("{0:##.###}",myDel(i, j));
 
             Console.ReadLine();
         }
